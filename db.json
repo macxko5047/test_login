@@ -2,25 +2,25 @@
    
     "user" : [
       {
-        "id" : "9999",
-      "pass" : "9999",
+        "id" : "1111",
+      "pass" : "1111",
       "user_name" : "admin"
     },
     {
-      "id" : "1111",
-      "pass" : "1111",
+      "id" : "2222",
+      "pass" : "2222",
       "user_name" : "maxko"
     }
     ],
 
     "customer" : [
       {
-        "id": "9999",
+        "id": "1111",
         "customerName": "admin"
       }
       ,
       {
-        "id": "1111",
+        "id": "2222",
         "customerName": "maxko"
         }
     ]
