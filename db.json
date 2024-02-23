@@ -1,10 +1,28 @@
 {
    
     "user" : [
-
+      {
+        "id" : "9999",
+      "pass" : "9999",
+      "user_name" : "admin"
+    },
+    {
+      "id" : "1111",
+      "pass" : "1111",
+      "user_name" : "maxko"
+    }
     ],
-    "customer" : [
 
+    "customer" : [
+      {
+        "id": "9999",
+        "customerName": "admin"
+      }
+      ,
+      {
+        "id": "1111",
+        "customerName": "maxko"
+        }
     ]
 
   }
