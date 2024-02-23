@@ -1,28 +1,27 @@
 {
-   
-    "user" : [
-      {
-        "id" : "9999",
-      "pass" : "9999",
-      "user_name" : "admin"
+  "user": [
+    {
+      "id": "1",
+      "user": "9999",
+      "pass": "9999",
+      "user_name": "admin"
     },
     {
-      "id" : "1111",
-      "pass" : "1111",
-      "user_name" : "maxko"
+      "id": "2",
+      "user": "1111",
+      "pass": "1111",
+      "user_name": "maxko"
     }
-    ],
+  ],
 
-    "customer" : [
-      {
-        "id": "9999",
-        "customerName": "admin"
-      }
-      ,
-      {
-        "id": "1111",
-        "customerName": "maxko"
-        }
-    ]
-
-  }
+  "customer": [
+    {
+      "id": "9999",
+      "customerName": "admin"
+    },
+    {
+      "id": "1111",
+      "customerName": "maxko"
+    }
+  ]
+}
