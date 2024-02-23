@@ -3,12 +3,12 @@
     "user" : [
       {
         "id" : "1111",
-      "pass" : "1111",
+      "pass" : "b59c67bf196a4758191e42f76670ceba",
       "user_name" : "admin"
     },
     {
       "id" : "2222",
-      "pass" : "2222",
+      "pass" : "934b535800b1cba8f96a5d72f72f1611",
       "user_name" : "maxko"
     }
     ],
